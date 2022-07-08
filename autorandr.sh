@@ -1,0 +1,5 @@
+while true; 
+do 
+	autorandr --change
+	sleep 1; 
+done
